@@ -12,7 +12,7 @@
 
 <h2 align="center">Requirements</h2>
 
-- Python 3.x
+- Python 3.11
 - pandas
 - numpy
 - Scikit-learn
